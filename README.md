@@ -1,1 +1,3 @@
 # responsive-website
+
+In this project , we will work on html, css and javascript...
